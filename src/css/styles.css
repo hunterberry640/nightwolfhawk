@@ -265,6 +265,7 @@ img {
   align-items: flex-end;
   justify-content: center;
   height: 100%;
+  margin-right: -3rem;
   padding-top: 80px;
   opacity: 0;
   animation: fadeIn 1s ease forwards;
@@ -1248,6 +1249,7 @@ img {
     height: auto;
     padding-top: 0;
     flex: 0 0 auto;
+    margin-right: 0;
     margin-bottom: -1rem;
   }
 
